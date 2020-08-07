@@ -1,0 +1,21 @@
+Unit Testing:
+-Tested all Hand classes for accuracy, including fringe cases (for example, straights involving aces)
+-Tested files and data saving for consistency and accuracy
+-Tested all dialogs for individual functionality
+-Tested all form components for individual functionality
+-Tested dealer class for bugs
+-Tested shuffle algorithm
+-Tested deck for repeated cards and missing cards
+Integration Testing:
+-Tested that cards sent from the logic layer were properly displayed on the presentation layer
+-Tested that main form and dialogs communicate and transfer data properly
+-Tested that user data successful transferred from data layer to logic layer to presentation layer
+
+The project implemented the following mandatory advanced topics from the rubric:
+-Inheritance
+-Polymorphism
+-Abstraction
+-Encapsulation
+It also incorporates the following extra credit advanced topics from the rubric:
+-Interfaces/Multiple inheritance
+-Clean, maintainable code
